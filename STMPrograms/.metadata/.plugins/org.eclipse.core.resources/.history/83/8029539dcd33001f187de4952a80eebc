@@ -1,0 +1,21 @@
+#include<stm32f4xx_hal.h>
+
+int main(){
+	HAL_Init();
+	__HAL_RCC_GPIOB_CLK_ENABLE();
+
+	GPIO_InitTypeDef led;
+
+	led.Pin = GPIO_PIN_1;
+	led.Mode = GPIO_MODE_OUTPUT_PP;
+	led.Pull = GPIO_NOPULL;
+	led.Speed = GPIO_SPEED_FREQ_LOW;
+
+	HAL_GPIO_Init(GPIOB,&led);
+
+	while(1){
+		HAL_GPIO_WritePin(GPIOB, GPIO_Pin_1, 1)
+	}
+
+	return 0;
+}

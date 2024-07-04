@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;003_LED_switch/002_LED_Code_Strach.ioc&apos; to &apos;003_LED_switch.ioc&apos;" description="Rename resource &apos;002_LED_Code_Strach.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="002_LED_Code_Strach.ioc" name="003_LED_switch.ioc" stamp="1719417590360" updateReferences="true"/>
+</session>
