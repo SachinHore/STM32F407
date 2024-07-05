@@ -958,3 +958,9 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-07-03 20:44:00.814
 !MESSAGE Indexed '009_Timer' (22 sources, 83 headers) in 2.4 sec: 5,523 declarations; 34,583 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.005%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-04 20:21:57.542
+!MESSAGE Indexed '010_PWM' (19 sources, 81 headers) in 3.1 sec: 4,268 declarations; 17,883 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-04 20:40:20.202
+!MESSAGE Indexed '010_PWM' (21 sources, 83 headers) in 1.58 sec: 5,507 declarations; 34,410 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.005%)
