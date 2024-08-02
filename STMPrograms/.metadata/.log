@@ -964,3 +964,39 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-07-04 20:40:20.202
 !MESSAGE Indexed '010_PWM' (21 sources, 83 headers) in 1.58 sec: 5,507 declarations; 34,410 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.005%)
+!SESSION 2024-07-05 20:19:04.643 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-05 20:19:30.322
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-05 20:19:30.334
+!MESSAGE Log4j2 initialized with config file D:\Sachin_code\Techoscripts\STM32F407\STMPrograms\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-05 20:19:53.640
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-06 19:34:32.572
+!MESSAGE Indexed '011_CAN' (19 sources, 81 headers) in 4.92 sec: 4,268 declarations; 17,883 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-06 19:36:49.851
+!MESSAGE Indexed '011_CAN' (19 sources, 81 headers) in 3.01 sec: 4,411 declarations; 17,774 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.009%)
+!SESSION 2024-07-19 16:52:02.649 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-19 16:52:56.030
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-19 16:52:56.055
+!MESSAGE Log4j2 initialized with config file D:\Sachin_code\Techoscripts\STM32F407\STMPrograms\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-19 16:53:26.247
+!MESSAGE Started RMI Server, listening on port 41337
